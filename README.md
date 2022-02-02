@@ -11,6 +11,6 @@ In the Old **Mahabalipuram Road (OMR)**, the hub of IT industry of Chennai, seve
 
 ## Maa Airport
 
-* Take a cab outside the airport
-* Option 2-Take a bus outside the airport
-* Step down at Barbeque Nation
+1. Take a cab outside the airport
+2. Option 2-Take a bus outside the airport
+3. Step down at Barbeque Nation
