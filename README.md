@@ -48,3 +48,29 @@ Below table gives a breif intro about gaming activites and the location of gamin
 
 >"The way to get started is to quit talking and begin doing."<br>
 >***-Walt Disney***
+
+<hr>
+
+# Code Fencing
+
+# Fibonacci Numbers
+
+>In mathematics, the Fibonacci numbers, commonly denoted Fn, form a sequence, the Fibonacci sequence, in which each number is the sum of the two preceding ones. The sequence commonly starts from 0 and 1, although some authors omit the initial terms and start the sequence from 1 and 1 or from 1 and 2.[-Goto Source](https://en.wikipedia.org/wiki/Fibonacci_number).
+
+Thus using above two equations `Fibonacci numbers` can be calculated easily by the following code: <https://cp-algorithms.com/algebra/fibonacci-numbers.html>
+
+```
+pair<int, int> fib (int n) {
+    if (n == 0)
+        return {0, 1};
+
+    auto p = fib(n >> 1);
+    int c = p.first * (2 * p.second - p.first);
+    int d = p.first * p.first + p.second * p.second;
+    if (n & 1)
+        return {d, c + d};
+    else
+        return {c, d};
+}
+```
+
