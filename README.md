@@ -38,3 +38,13 @@ Below table gives a breif intro about gaming activites and the location of gamin
 |Skating| vegas | $ 2100|
 |go kart| Florida | $ 1400|
 |rally| Chicago | $ 7100|
+
+<hr>
+
+# Pithy Quotes
+
+> "The greatest glory in living lies not in never falling, but in rising every time we fall."<br>
+>***-Nelson Mandela***
+
+>"The way to get started is to quit talking and begin doing."<br>
+>***-Walt Disney***
