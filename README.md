@@ -23,4 +23,18 @@ In the Old **Mahabalipuram Road (OMR)**, the hub of IT industry of Chennai, seve
 * Biryani
 * Manchuria
 
-[Goto AboutMe](AboutMe.md)
+[Goto AboutMe] (AboutMe.md)
+
+<hr>
+
+## Recomended Games
+
+Below table gives a breif intro about gaming activites and the location of gaming arena along with amount payable for any additional equipment opted.
+
+
+|Sport | Location | Money Payable|
+|  ---  |   ---   | :--- |
+|cycling| Kansas | $ 4100|
+|Skating| vegas | $ 2100|
+|go kart| Florida | $ 1400|
+|rally| Chicago | $ 7100|
